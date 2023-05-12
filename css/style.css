@@ -34,7 +34,6 @@ body > div > div:hover {
 .heading {
   position: sticky;
   top: -32px;
-  box-shadow: 0 2px 10px black;
   filter: blur(0);
   z-index: 10;
 }
